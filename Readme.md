@@ -1,7 +1,9 @@
 Golang Build Image
 ==================
 
-Docker Hub: [mantikai/golang_build](https://cloud.docker.com/u/mantikai/repository/docker/mantikai/golang_build)
+[
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/mantikai/golang_build)
+](https://cloud.docker.com/u/mantikai/repository/docker/mantikai/golang_build)
 
 Internally used image for building go applications.
 
