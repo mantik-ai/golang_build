@@ -3,7 +3,7 @@ Golang Build Image
 
 [
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/mantikai/golang_build)
-](https://cloud.docker.com/u/mantikai/repository/docker/mantikai/golang_build)
+](https://hub.docker.com/r/mantikai/golang_build)
 
 Internally used image for building go applications.
 
